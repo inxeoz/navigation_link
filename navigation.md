@@ -1,4 +1,9 @@
 
+### 🪣 Inxeoz Bucket
+
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" height="18" /> [**Manjaro Linux**](https://manjaro.org/) – Arch-based Linux distro you’re using.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="18" height="18" /> [**Android VM Setup**](https://developer.android.com/studio/run/emulator) – Emulator/VM setup docs.
+
 ### 🌍 Common Online Services
 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="18" height="18" /> [**Google Search**](https://www.google.com/) – Popular search engine.
