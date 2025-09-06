@@ -3,6 +3,7 @@
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" height="18" /> [**Manjaro Linux**](https://manjaro.org/) – Arch-based Linux distro you’re using.
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="18" height="18" /> [**Android VM Setup**](https://developer.android.com/studio/run/emulator) – Emulator/VM setup docs.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="18" height="18" /> [**Android VM Setup**](https://developer.android.com/studio/run/emulator) – Emulator/VM setup docs.
 
 ### 🌍 Common Online Services
 
